@@ -7,7 +7,7 @@ const appConfig = {
 	// ws请求地址
 	wsDomain: 'wss://api.isegloball.com',
 	// UEX 地址
-	UEX_Address: 'https://ethinge.com',
+	UEX_Address: 'http://localhost:3000',
 	// 应用名称
 	appName: 'UEX-APP',
 }
